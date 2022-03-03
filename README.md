@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="left">Top Langs:</h3>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t-aono)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=t-aono" width="70%" />
+</div>
 
