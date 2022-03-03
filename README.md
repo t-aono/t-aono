@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=t-aono" width="70%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=t-aono&layout=compact" width="60%" />
 </div>
 
