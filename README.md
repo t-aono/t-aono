@@ -17,9 +17,12 @@ Here are some ideas to get you started:
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=t-aono" height="160px" />
+    <img src="https://github-readme-stats.vercel.app/api?username=t-aono&show_icons=true&count_private=true" width="50%" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=t-aono&layout=compact" height="160px" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=t-aono&layout=compact" width="50%" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=t-aono&layout=compact&hide=php,blade,shell&custom_title=Frontend Used Language" width="50%" />
   </a>
 </div>
