@@ -15,14 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=t-aono&show_icons=true&count_private=true" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=t-aono&layout=compact" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=t-aono&layout=compact&hide=php,blade,shell&custom_title=Frontend Used Language" />
-  </a>
-</div>
+<!--
+👇Library used　
+https://github.com/anuraghazra/github-readme-stats
+https://github.com/ryo-ma/github-profile-trophy
+-->
+
+<img src="https://github-readme-stats.vercel.app/api?username=t-aono&show_icons=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=t-aono&layout=compact&langs_count=10" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=t-aono&layout=compact&hide=php,blade,shell&custom_title=Frontend Used Language" /> -->
+<img src="https://github-profile-trophy.vercel.app/?username=t-aono&rank=-B,-C" />
