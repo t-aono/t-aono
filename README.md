@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 </a>
 -->
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=t-aono&rank=-B,-C" />
+  <img src="https://github-profile-trophy.vercel.app/?username=t-aono" />
 </a>
